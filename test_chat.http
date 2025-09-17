@@ -1,0 +1,7 @@
+POST http://localhost:5000/chat
+Content-Type: application/json
+
+{
+  "query": "When is the exam?",
+  "session_id": "user123"
+}

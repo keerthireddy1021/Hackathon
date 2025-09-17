@@ -1,0 +1,7 @@
+flask
+twilio
+requests
+langchain
+chromadb
+pypdf
+google-generativeai
